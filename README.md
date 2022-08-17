@@ -10,7 +10,7 @@ Ideally you would be able to do this by having the minetest mod talk directly to
 
 
 ## Credits: 
-+ Architecture + some code taken from MIT licensed Minetest<->Discord bridge (discordmt)[https://github.com/archfan7411/discordmt]
-+ Variation of Urbit<->Discord bridge taken from ~midsum-salrux's (faux-legacy)[https://github.com/midsum-salrux/faux-legacy]
++ Architecture + some code taken from MIT licensed Minetest<->Discord bridge [discordmt](https://github.com/archfan7411/discordmt)
++ Variation of Urbit<->Discord bridge taken from ~midsum-salrux's [faux-legacy](https://github.com/midsum-salrux/faux-legacy)
 
 
